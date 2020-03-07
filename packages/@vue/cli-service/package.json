@@ -26,7 +26,7 @@
     "@vue/cli-shared-utils": "^3.0.1",
     "@vue/preload-webpack-plugin": "^1.1.0",
     "@vue/web-component-wrapper": "^1.2.0",
-    "acorn": "^5.7.1",
+    "acorn": "^7.1.1",
     "address": "^1.0.3",
     "autoprefixer": "^8.6.5",
     "cache-loader": "^1.2.2",
