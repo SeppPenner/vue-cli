@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "execa": "^0.10.0",
-    "json-server": "^0.12.2",
+    "json-server": "^0.15.0",
     "puppeteer": "^1.0.0",
     "strip-ansi": "^3.0.0"
   }
